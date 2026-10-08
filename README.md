@@ -1,4 +1,4 @@
-# Arch packages
+# Arch Config
 
 Package declarations managed with aconfmgr. Configuration: `~/.config/aconfmgr`.
 File tracking is disabled; dotfiles are managed with chezmoi.
